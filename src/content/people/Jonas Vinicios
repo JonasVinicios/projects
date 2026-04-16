@@ -10,4 +10,5 @@ occupations:
     isFinished: false  # true se já concluiu, false se ainda está cursando
 addresses:
   github: https://github.com/JonasVinicios
+  linkedin: https://www.linkedin.com/in/jonas-silva-32867134b/
   email: jonasvbsilva@gmail.com
