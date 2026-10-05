@@ -1,0 +1,27 @@
+title: ConEstelar
+
+description:
+  Site que analisa as constelações e suas informações.
+
+repository:
+  https://github.com/JonasVinicios/ConEstelar
+
+homepage:
+  https://jonasvinicios.github.io/ConEstelar/
+
+image:
+
+
+members:
+  20242370039
+
+tecnologias:
+  html
+  css
+  js
+
+courses:
+  Sistemas para Internet
+
+semester:
+  2026.2
